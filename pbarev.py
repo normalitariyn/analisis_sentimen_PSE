@@ -204,7 +204,7 @@ if selected == "Implementasi":
             'https://raw.githubusercontent.com/normalitariyn/dataset/main/dataset_PSE%20(1).csv')
 
         names = []
-        with open(r'hh.txt', 'r') as fp:
+        with open('hh.txt', 'r') as fp:
             for line in fp:
                 x = line[:-1]
                 names.append(x)
