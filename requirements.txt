@@ -6,3 +6,6 @@ Sastrawi==1.0.1
 nltk==3.8.1
 scipy==1.8.1
 pickle5==0.0.11
+pandas==1.5.2
+streamlit-option-menu==0.3.2
+tqdm==4.65.0
